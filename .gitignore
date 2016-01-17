@@ -1,0 +1,6 @@
+.DS_Store
+fastdkeys
+fastdkeys/*
+ausserhalb/Nachricht.txt
+ausserhalb/ausserhalb_hh.txt
+!.gitignore
